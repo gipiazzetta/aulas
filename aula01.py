@@ -110,3 +110,5 @@ for item_da_lista, valor_item, item_status in zip(lista_itens_supermercado,lista
         print(f"{item_da_lista} está {item_status}")
     else:
         print(f"{item_da_lista} está {item_status}")
+
+#teste
